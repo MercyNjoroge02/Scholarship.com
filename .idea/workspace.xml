@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac6bcdba-1fd7-4ea3-bed1-04767009253d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="28mctqWpjsfIxDkXRMGAEPAhlY3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac6bcdba-1fd7-4ea3-bed1-04767009253d" name="Default Changelist" comment="" />
+      <created>1651825418264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651825418264</updated>
+      <workItem from="1651825428279" duration="1326000" />
+      <workItem from="1651826957661" duration="1626000" />
+      <workItem from="1651828793403" duration="2168000" />
+      <workItem from="1651831280965" duration="899000" />
+      <workItem from="1651832479138" duration="1326000" />
+      <workItem from="1651918743484" duration="3384000" />
+      <workItem from="1652084872386" duration="668000" />
+      <workItem from="1652085623183" duration="725000" />
+      <workItem from="1652086610821" duration="359000" />
+      <workItem from="1652087016405" duration="25000" />
+      <workItem from="1652087058732" duration="53000" />
+      <workItem from="1652087141470" duration="71000" />
+      <workItem from="1652087219409" duration="4000" />
+      <workItem from="1652087283425" duration="137000" />
+      <workItem from="1652087523951" duration="7406000" />
+      <workItem from="1652161975766" duration="43000" />
+      <workItem from="1652169965188" duration="1995000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="195" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1652169965195">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="195" y="191" key="com.intellij.ide.util.TipDialog/0.0.1024.728@0.0.1024.728" timestamp="1652169965195" />
+  </component>
+</project>
